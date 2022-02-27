@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The kingdomes case: or, The question resolved, whether the Kings subjects of this realm of England may or ought to ayd and assist each other, in repressing the persons now assembled together under the name of the Kings Army. Pro lege rege grege ad ill. propugnandam. informandum conservandam. By him that prayeth studieth the peace of the King. kingdome. April, 24. 1643. It is this day ordered by the Committee of the House of Commons in Parliament, concerning printing, that this booke, entituled (the Kingdomes case) be printed by John Wright. Iohn White.</title>
+            <author>He that prayeth/studieth the peace of the King/kingdome.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87772</idno>
+            <idno type="STC">Wing K584</idno>
+            <idno type="STC">Thomason E475_38</idno>
+            <idno type="STC">ESTC R202670</idno>
+            <idno type="EEBO-CITATION">99862876</idno>
+            <idno type="PROQUEST">99862876</idno>
+            <idno type="VID">115054</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87772)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115054)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The kingdomes case: or, The question resolved, whether the Kings subjects of this realm of England may or ought to ayd and assist each other, in repressing the persons now assembled together under the name of the Kings Army. Pro lege rege grege ad ill. propugnandam. informandum conservandam. By him that prayeth studieth the peace of the King. kingdome. April, 24. 1643. It is this day ordered by the Committee of the House of Commons in Parliament, concerning printing, that this booke, entituled (the Kingdomes case) be printed by John Wright. Iohn White.</title>
+                  <author>He that prayeth/studieth the peace of the King/kingdome.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John VVright at the Kings head in the Old-bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "lege rege grege" "propuganadam. informandum conservandam." "prayeth studieth" and "King. kingdome." are enclosed in brackets on title page.</note>
+                  <note>Annotation on Thomason copy: "Dec: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115054:1" rendition="simple:additions"/>
+            <p>THE KINGDOMES CASE: <hi>OR,</hi> The Queſtion reſolved, Whether the Kings Subjects of this Realm of <hi>England</hi> may or ought to ayd and aſſiſt each other, in re<g ref="char:EOLhyphen"/>preſſing the perſons now aſſembled together under the name of the KINGS Army.</p>
+            <p>Pro
+<list>
+                  <item>Lege</item>
+                  <item>Rege</item>
+                  <item>Grege</item>
+               </list>
+ad ill.
+<list>
+                  <item>propugnandam.</item>
+                  <item>informandum</item>
+                  <item>conſervandam.</item>
+               </list>
+            </p>
+            <p>By him that
+<list>
+                  <item>prayeth</item>
+                  <item>ſtudieth</item>
+               </list>
+the peace of the
+<list>
+                  <item>King.</item>
+                  <item>Kingdome.</item>
+               </list>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>April, 24. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>IT is this day Ordered by the Committee of the Houſe of Commons in Parliament, concerning printing, that this booke, entituled <hi>the Kingdomes Caſe</hi>) be printed by <hi>John Wright.</hi>
+                        </p>
+                        <closer>
+                           <signed>Iohn White.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John VVright</hi> at the Kings head in the Old-bayley, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115054:2"/>
+            <head>The Caſe.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Ive or ten thouſand or more Per<g ref="char:EOLunhyphen"/>ſons, aggregate and aſſemble themſelves together, in a War<g ref="char:EOLhyphen"/>like manner, with Officers and all proviſions of Warre, and goe from <hi>Nottingham</hi> towards <hi>London,</hi> kill divers of the Kings Subiects, rob, ſteale, and take away the Goods of others, breake into Towns and Honſes by force, and imprſon divers.</p>
+            <p>Upon this Caſe there are divers Quaeres.</p>
+            <p>
+               <label>Quaere.</label>
+VVHether others of the Kings Subjects may not by the Lawes of this Kingdome of <hi>England,</hi> by all meanes whatſoever, whether by raiſing of Armes or otherwiſe, endeanour to their uttermoſt, to appre<g ref="char:EOLhyphen"/>hend, oppoſe, quell, and vanquiſh, the aforeſaid perſons.</p>
+            <p>
+               <pb n="2" facs="tcp:115054:3"/>
+               <label>Anſwer.</label>
+IT is not onely lawfull but commanded by the lawes of this Kingdome, that all perſons able, ſhould by all or any meanes whatſoever, endeavour to apprehend op<g ref="char:EOLhyphen"/>poſe, quell, and vanquiſh the ſaid perſons, and if any pre<g ref="char:EOLhyphen"/>ſent at the aforeſaid outrages, doe not without com<g ref="char:EOLhyphen"/>mand, or abſent doe not upon command, endeavour to apprehend, oppoſe, quell, and vanquiſh the ſaid perſons; they are puniſh able by the Lawes of this Kingdome.</p>
+            <p>
+               <label>The Proofe.</label>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, for that this aſſembling and demeaning them<g ref="char:EOLhyphen"/>ſelves in this manner, as the caſe is put, is a breach of the Peace, and that in the higheſt degree; now every man may cake up Armes, to preſerve the Peace, nay ought, if otherwiſe it cannot be preſerved, though it be onely in danger to be broken, in particular private Towns, and by a ſmall number of perſons: and therefore if two fall out and fight, and the one killeth the other, and a third man ſtand by, and doe not endeavour to part them, or prevent the breach of the Peace, this third man is to be amerced, <hi>3 Edward 3. Itinere Northampton, Corone. 293.</hi> But by M. <hi>Lambert,</hi> hee is to be fined, and impriſoned, <hi>Lamb. Juſtice of P. pag. 133.134.135, &amp;c.</hi> Much more, and <hi>a Fortiori,</hi> where the peace is broken, with a high hand, and in ſuch tranſcendent manner, as the preſent caſe is put; and every publike Officer as Sheriffs, Conſtable, &amp;c. May and might to raiſe and leavie the power of the County, Hundred, or Towne, to repreſſed; or for the apprehending of Traytors, Felons, &amp;c. <hi>3. Hen. 7.10. Dalton Office of Sheriffes, 136.</hi> And if they faile in perfor<g ref="char:EOLhyphen"/>mance of their duties therin, they are to be fined and im<g ref="char:EOLhyphen"/>priſoned;
+<pb n="3" facs="tcp:115054:3"/>and if any refuſe to ayd them therein, they are in like manner to be puniſhed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, for that this aſſembling and demeaning themſelves as aforeſaid, is <hi>in terrorem populi Domini Regis,</hi> in amazement of the Kings Liege-People, and ſo a riot, rout, and unlawfull aſſembly. Now if the num<g ref="char:EOLhyphen"/>ber of three or more perſons, aſſemble themſelves toge<g ref="char:EOLhyphen"/>ther, to do an unlawfull Act, all perſons in the County where the ſame aſſembly is, being able to travell, are to ayd and aſſiſt the Iuſtices of the Peace and Sheriffs to reſiſt, repell, and take ſuch offenders, and that under paine of impriſonment, fine, and panſome by the ſtatute <hi>2 Hen. 5. cap. 8. a fortiori,</hi> where unlawfull Acts are done, as in the caſe put.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, for that this aſſembling and demeaning of themſelves as aforeſaid,is by the Common Lawes of this Kingdome high Treaſon; every Rebellion is high Treaſon, and ſo was it reſolved and adiudged by all the Judges of <hi>England, paſch. 39</hi> of <hi>Eliz.</hi> of that multitude then aſſembled in warlike manner to pull down Inclo<g ref="char:EOLhyphen"/>ſures in thoſe places, where they had no colour to claim Common, and ſo was adiudged by the whole <hi>Parlia<g ref="char:EOLhyphen"/>ment, 29 Hen. 6. cap. 2</hi> In <hi>Cades</hi> Rebellion, that he was a Traytor, and the leavying of Armes within this King<g ref="char:EOLhyphen"/>dome in warlike manner without lawfull cauſe, is Re<g ref="char:EOLhyphen"/>bellion, and ſo Treaſon; and ſo it is reſolded, <hi>A bridge<g ref="char:EOLhyphen"/>ment of Dier 13. Eliz. 298.</hi>
+            </p>
+            <p>Now by the Lawes of this Land, all are bound to ap<g ref="char:EOLhyphen"/>prehend and take all Felons and Traitors, under the penalties beforementioned; yea, I conceive, under grea<g ref="char:EOLhyphen"/>ter. For if A commit Treaſon, and <hi>B</hi> know it, and con<g ref="char:EOLhyphen"/>ceale it, it is miſpriſion of Treaſon, and he ſhall forefeit
+<pb n="4" facs="tcp:115054:4"/>therefore all his goods, and the profit of his Lands du<g ref="char:EOLhyphen"/>ring his lite; &amp; much more where he doth ret uſe toaſst &amp; in apprehending, and puniſhing the offenders<g ref="char:punc">▪</g> If the aſſemblers to pull downe Incloſures aforementioned, were adiudged Traytors, much more theſe Rebels aſ<g ref="char:EOLhyphen"/>ſembled to pull downe the Incloſures, namely the fence of our Religion, Lawes and Liberties, <hi>viz.</hi> the Parlia<g ref="char:EOLhyphen"/>ment, which is the onely Fence and Guard we have in this Kingdome, againſt ruine of Religion, Lawes, and Liberties, the generall medicine, to cure all our grievan<g ref="char:EOLhyphen"/>ces, the life of our lives and lively hoods.</p>
+            <p>And that this is the maine intention of this Rebelli<g ref="char:EOLhyphen"/>on appeareth, not onely by their own ſpeeches, but alſo for that.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, they perſwaded the King to abſent himſelfe from the Parliament, thereby or nullifie (as much as in them lay) the benefit and profit, that the Kingdom might receive thereby.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, to detaine divers Members of both Hou<g ref="char:EOLhyphen"/>ſes, from returning to the Houſes whereof they were Members.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, to withhold divers Delinquenes from be<g ref="char:EOLhyphen"/>ing brought to anſwer their crimes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, to go to the Houſe of Commons to demand the five Members, with ſuch an attendance, as might have been the ruine and death of all that had appoſed.</p>
+            <p>
+               <hi>The principall Caſe, and all the other Caſes in anſwer thereunto ate put, as ſuppoſing the King not commanding, and then the concluſions thereupon are ſo apparent, that all men that have their right ſences will agree the ſame to be the Common Lawes of this Kingdome;</hi> therefore the Caſe is further put:</p>
+            <p>
+               <pb n="5" facs="tcp:115054:4"/>
+Admit that this Aſſembly is by the Kings com<g ref="char:EOLhyphen"/>mand, and that others are prohibited by the King to oppoſe them.</p>
+            <p>
+               <label>Quaere 2.</label>
+VVHat alterations are thereby made of the Conclu<g ref="char:EOLhyphen"/>ſions aforeſaid.</p>
+            <p>
+               <label>Anſwer.</label>
+NOne at all.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, it is not to be beleeved that they have the Kings command, for that His Maieſty hath oft promiſed by divers Declarations, and alſo proteſted by his ſolmne Proteſtations, that he will rule and governe his Sub<g ref="char:EOLhyphen"/>iects by and according to the knowne Lawes of this Kingdome; both which Promiſes and Proteſtations were broken. if his Maieſty ſhould command the aſſem<g ref="char:EOLhyphen"/>qling of the foreſaid perſons, in manner as aforeſaid; or to doe or commit the outrages aforeſaid, being both un<g ref="char:EOLhyphen"/>lawfull, and contrary to the knowne Lawes of this Kingdome, as before is apparently manifeſted.</p>
+            <p>And therefore His Maieſties command by word is not ſufficient, but it muſt be in all Caſes to iuſtiſte the party by or from ſome of his Courts of Iuſtice, or under ſome of His Maieſties Seales thereunto appointed, <hi>Co. Ma. Cha. 186. b. 187.</hi> for every His Maieſties Seales are appointed to each Court, as the Lawes of this King<g ref="char:EOLhyphen"/>dome; have diſpoſed, and every Seale will not ſerve in every caſe; and therefore untill the foreſaid perſons pro<g ref="char:EOLhyphen"/>duce ſuch warrant as is according to Law, it is not only
+<pb n="6" facs="tcp:115054:5"/>lawfull but commanded by the Lawes of this King<g ref="char:EOLhyphen"/>dome, that all perſons able, ſhould by all, or any means whatſoever, endeavour to apprehend, oppoſe, quell, &amp; vanquiſh the aforeſaid perſons aſſembled as aforeſaid, under the name of the Kings Army, which is proved by a familiar Caſe, <hi>viz.</hi> a <hi>Capias</hi> iſſueth to the Sheriffe of <hi>S.</hi> to take <hi>A. <hi>ad reſpondendum, &amp;c.</hi>
+               </hi> and before the taking, <hi>A.</hi> procureth a protection or a <hi>Superſedeas,</hi> the Sheriffe of <hi>S.</hi> may iuſtifie the taking of him, untill the ſhewing of the Protection or <hi>Superſedeas</hi> by <hi>A.</hi> unto him, and that the Protection or <hi>Superſedeas</hi> do appeare legall, both for the matter, manner, Court and Seale; And if the She<g ref="char:EOLhyphen"/>riffe doe not take him having fit opportunity, an Action of the Caſe lyeth againſt him, he hath broken his Oath, and is to be amerced, notwithſtanding theſe counter<g ref="char:EOLhyphen"/>mands concealed or kept in the pocket, and ſo in the pre<g ref="char:EOLhyphen"/>ſent caſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, but admitting they have a command from the King, under His Maieſties great Seale, or any o<g ref="char:EOLhyphen"/>ther legal Seale, yet that command, put it as ſtrong as may be, maketh no alteration of the former concluſions:</p>
+            <p>Becauſe it is already proved, that this aſſembly, and demean or in it ſelfe conſidered, is againſt Law in caſe the King command it not; now if a thing be in it ſelfe againſt Law, the Kings command doth not, nor cannot make it lawfull: For the Kings commands or prohibi<g ref="char:EOLhyphen"/>tions, againſt the knowne Lawes of the Kingdome are <hi>ipſo facto</hi> void, and ſo ſaith <hi>Bracton, Nihil aliud poteſt Rex, quam quod de jure poteſt,</hi> and the rule is generall as well in the Kings caſe, as in the caſe of common perſons, <hi>Quod contra legem fit, pro infecto habetur,</hi> and the Actors and Erecutioners of theſe commands,
+<pb n="7" facs="tcp:115054:5"/>are to be puniſhed, as if no ſuch command or prohibiti<g ref="char:EOLhyphen"/>on were.</p>
+            <p>For inſtance, The King commands <hi>A</hi> to arreſt <hi>B</hi> without cauſe, (which is an unlawfull act) and <hi>A</hi> accor<g ref="char:EOLhyphen"/>dingly doth arreſt him; <hi>B</hi> may have an Action of falſe impriſonment againſt <hi>A</hi> notwithſtanding the Kings command, <hi>16 Hen. 6. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mrance de faits, 182.</hi> So in like manner, if the King ſhould command <hi>A</hi> to kill <hi>B.</hi> and he accordingly ſhould kill him, T. <hi>H. 8. Coron. 229.19 H. 6.63, &amp;c.</hi> A may be indicted at the Kings ſuit therefore, notwithſtanding the Kings command, and executed for the ſame, as if no ſuch command had been.</p>
+            <p>In like manner, if the King ſhould command <hi>A</hi> to kill a Iudge of Aſſize, while he is doing his Office, and he accordingly kill him, this is high Treaſon, notwithſtan<g ref="char:EOLhyphen"/>ding the Kings command, and the Indictment ſhall be <hi>contra Legeanciae fuae debitum,</hi> againſt the duty of his Allegiance; for his duty of Allegiance is onely to obey the King in his commands according to Law, and not contrary to Law: and if this be Treaſon, as it is by the Common Law, to kill a Iudge as afore, then much more hainous Treaſon is it, to kill the Iudges of that Iudge, which are the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>The ſame Law is, if the King command <hi>A</hi> to take away the Goods of <hi>B</hi> without iuſt cauſe, and <hi>A</hi> doe ac<g ref="char:EOLhyphen"/>cordingly, <hi>A</hi> ſhall therefore be puniſhed, as if no ſuch command had beene, as appeareth by the preſent expe<g ref="char:EOLhyphen"/>rience of the late Sheriffes, for taking away mens Goods for the Shipmoney; and by the Officers of Monopolies, who have not in any manner beene xcu<g ref="char:EOLhyphen"/>ſed
+<pb n="8" facs="tcp:115054:6"/>for that they had the Kings Command: and ſo is the ancient Experience of former times. <hi>42 aſſ. 5.</hi>
+            </p>
+            <p>If the Rebels in <hi>Ireland</hi> had, (as they pretend they have) the Kings Commiſſion for what they do, it would not in any manner abate or mitigate their offence, but that it ſhould be high Treaſon, and they to be apprehen<g ref="char:EOLhyphen"/>ded and proceeded againſt as if they had no ſuch Com<g ref="char:EOLhyphen"/>miſſion: and the ſame Law is in the caſe put, of the per<g ref="char:EOLhyphen"/>ſons aſſembled here in <hi>England,</hi> in like Rebellious man<g ref="char:EOLhyphen"/>ner aforeſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly the King cannot by his command under the great Seale or otherwiſe, deny, hinder, or prohibite iuſtice to any of his Subiects, or any iuſt thing, to them or for them, to be done; but this command unto the Ca<g ref="char:EOLhyphen"/>valiers, to rob, ſpoyle, and take away mens goods, kill, impriſon, and wrong their perſons, without making ſatisfaction for them; is a denying, hindering, and prohi<g ref="char:EOLhyphen"/>biting iuſtice to them, and for them.</p>
+            <p>As if the King grant a protection under the great Seale to <hi>I. N.</hi> directed to the Sheriffes, and other Officers, commanding them that they ſhall not arreſt the ſaid <hi>I. N.</hi> during one whole yeere, next enſuing at any mans ſuit, and this <hi>per praerogativam noſtram quam nolumus eſſe arguendam;</hi> yet if the Sheriffe doe not arreſt the ſaid <hi>I. N.</hi> upon proceſſe againſt him, he ſhall be amerced, and this command or prohibition of the Kings ſhall be no excuſe to him; and ſo is <hi>Co. Mag. Chart. 56.</hi> where particular caſes are put to that purpoſe.</p>
+            <p>
+               <pb n="9" facs="tcp:115054:6"/>
+               <label>Quaere 3.</label>
+BUt ſuppoſe the aforeſaid perſons, calling themſelves the Kings Army, were no Peace-breakers, Traytors, nor Felons, (as before we have proved them to be) yet being ſo declared <hi>de facto,</hi> by the Judges of the Supreame Court, <hi>viz.</hi> the Parliament: Whether are the Subjects of this Kingdome bound, by the Lawes of the ſame, to give credit to their Judgement, and ſo farre to beleeve them, as to endeavour to apprehend ſuch perſons ſo declared, and proceed againſt them accordingly?</p>
+            <p>
+               <label>Anſwer.</label>
+THey are.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Becauſe the iudgement of a Court of Record is <hi>quaſi Juriſdictum,</hi> that is, the ſentence or dictate of the Law, for the Court is, as it were, the mouth of the Law, by which it ſpeakes to all that are within the iurisdiction of it; now we are bound to believe the ſen<g ref="char:EOLhyphen"/>tence, or dictates of the Law; when they are thus utte<g ref="char:EOLhyphen"/>red unto us<g ref="char:punc">▪</g> without diſputing or examination; for that theſe Courts are intruſted by the Lawes, to utter and expreſſe their ſence in the caſes, that are within their cognizance and iuriſdiction.</p>
+            <p>Therefore if the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment Aſſembled, make an Ordinance or Declaration, that is their Iudgement, and bindeth all perſons with<g ref="char:EOLhyphen"/>in the Iuriſdiction of the Court, untill it be reverſed, which muſt onely be done in Parliament, and ſo is the expreſſe booke of <hi>8 Hen. 4.14.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:115054:7"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> It all perſons, within the Iuriſdiction of any other inferiour Court of Record, within this Kingdome are bound to beleeve and obey the Iudgement of the ſame Court, untill it be reverſed: then much more, thoſe with<g ref="char:EOLhyphen"/>in in the Iuriſdiction of the higheſt and ſupreame. But all perſons are bound by the Lawes of this Land, to be<g ref="char:EOLhyphen"/>leeve the Iudgement of inferiour Courts, that are with in the Iuriſdiction of the ſame, untill it be reverſed. For Example:</p>
+            <p>If <hi>I. S.</hi> a man free from all Felony, be outlawed for Felony, which is but a Declaration by and before the Coroners, which are of the moſt inferior ſort of Iudges of Record, in this Kingdome; every Subiect i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bound, ſo farre to beleeve, and credit the ſaid Iudgement to be true, that he is not to receive, relieve, or comfort the ſaid <hi>J. S.</hi> if he doe, knowing the ſaid Outlawry, or living in the County where the ſaid Outlawry was proclai<g ref="char:EOLhyphen"/>med, whereby he is bound to take notice thereof, at his perill; he is acceſſary to the ſaid Felony, <hi>12 E. 2. Coron. 377.</hi> which is cited <hi>19 Eliz. dy. 355.</hi> And the very caſe of Attainder by Parliament is put, <hi>1 Hen. 7.4. v.</hi> where di<g ref="char:EOLhyphen"/>vers then elected as Knights and Burgeſſes of the then intended Parliament, had beene attainted by a former Parliament, held <hi>10 Rich. 3.</hi> in which booke it is reſol<g ref="char:EOLhyphen"/>ved by the Iudges there, that the perſons ſo attainted, could not by the King, or otherwiſe be diſcharged ther<g ref="char:EOLhyphen"/>of, but by reverſing it in Parliament, though it were done in the time of an Vſurper, and without any iuſt cauſe: And no doubt, if any had apprehended any of thoſe perſons, ſo declared Traytors, before the reverſal of the Attainder, or the ſaid <hi>I. S.</hi> Outlawed as aforeſaid, he might well iuſtifie it, and was not any way for to be
+<pb n="11" facs="tcp:115054:7"/>puniſhed: Nay, had any refuſed to apprehend any of thoſe perſons attainted, or <hi>I. S.</hi> outlawed as aforeſaid, he ſhould therefore be iuſtly lyable to the puniſhment aforeſaid.</p>
+            <p>The Law of <hi>England</hi> giveth ſo much credit to every <milestone type="tcpmilestone" unit="unspecified" n="3"/> Court of Record; that no averment can be taken againſt it, none ſhall be admitted to contradict it, or to ſay it is not true; no not the King himſelf, but it muſt remaine valid and of force, untill it be reverſed.</p>
+            <p>And therefore it was lately held, by the Iudges of the Kings Bench, in the Lord <hi>Sayes</hi> Caſe for the Ship<g ref="char:EOLhyphen"/>money; that it being reſolved by the maior part of the Iudges of <hi>England</hi> in the Exchequor Chamber, for the King; That that Iudgement ſtanding in force, the ſame matter was not to be brought in queſtion againe, nor to be diſputed though betwixt other parties; and therfore refuſed to heare the Lord <hi>Sayes</hi> counſell, except they had new mater not reſolved before: and ſome of the Iudges then affirmed, that that, &amp; every ſuch Iudgement by all the Iudges, is as it were an Act of Parliament to bind the Subiect, and is in as much force untill the, ſame be reverſed, which muſt be in Parliament, and no where elſe as accordingly ſince, the ſaid iudgement in the caſe of Shipmony hath been ſo that as all men were bound up, by the ſaid Iudgement, now by the reverſall therof all men are at large, &amp; the King therby as much bound as the Subiect was before; Whereupon we may ſee how deepely it concerneth the Subiects of this King<g ref="char:EOLhyphen"/>dome, to have frequent Parliaments, to review the Iudgments of interiour Courts, &amp; alſo to have honeſt and able Iudges choſen into the places of Iudicature; and that ſuch of them as offend may be puniſhed accor<g ref="char:EOLhyphen"/>ding
+<pb n="12" facs="tcp:115054:8"/>to their demerit, and that, that puniſhment may not be diſpenced with.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> If the verdict of twelve men, by the Lawes of this Kingdome, are obligatory, and binde the King &amp; Sub<g ref="char:EOLhyphen"/>iect perpetually where an attaint lyeth not, and if an attaint lyeth, there it is contradicted by foure and twenty, where the former was but by twelve only; then it ought not to be marvelled that ſuch eſteeme is had of the Iudgement of the Iudges; but a verdict bindeth, as appeareth by the reſolution of a queſtion propounded by King <hi>Hen. 4.</hi> to <hi>Gaſcoigne,</hi> his then Chiefe Iuſtice and remembred <hi>7 H. 4.14.</hi> which was, That one killeth ano<g ref="char:EOLhyphen"/>ther in the preſence of the ſaid Chiefe Iuſtice, &amp; a third man which is not guilty, is by the verdict of twelve men found guilty; what the law in that caſe were? to which the Chiefe Iuſtice made anſwer, That he ought to reſpite the Iudgement therein, and petition His Maieſty for his pardon: ſo that the verdict doth &amp; muſt ſtand in force againſt both King and Subiect, and the Kings command by word or affirmation, to the contra<g ref="char:EOLhyphen"/>ry is of no effect. And if the the ſaid Iudge had not had particular knowledge, who it was that killed that man, then he ought to have given Iudgement, without any delay; or if he had given Iudgement, &amp; the party againſt whom ſuch Iudgement was given, was apprehended or executed by any Officer that Officer, and all aſſiſting him therein, had beene freed from all blame, and were not any way to be puniſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d: Nay, if the Officer had not done his Office, or others had not aſſiſted him therein, both he and they had beene ſubiect to puniſhment, in manner aforeſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Laſtly, it may be proved by that generall rule taken
+<pb n="13" facs="tcp:115054:8"/>
+               <hi>Co. 10.76.</hi> in the Caſe of the Marſhall ſea, <hi>viz.</hi> that where a Court hath Iuriſdiction of the cauſe, but pro<g ref="char:EOLhyphen"/>ceeded erroneouſly, or againſt Law, to a Iudgement that all Officers &amp; others imployed in execution of that Iudgement, are to be excuſed; and whatſoever they do therein is lawfull, and iuſtifiable, and may not be admit<g ref="char:EOLhyphen"/>ted to diſpute or queſtion the illegality thereof; ſo that upon the whole matter it appeareth, That the ſupream and higheſt Court of Record in the Kingdome, which hath Iurisdiction over all Courts and Cauſes, namly; the Parliament, Declaring the aforeſaid Aſſembly to be diſturbers of the Peace, Traytors, Felons, &amp;t. That their Iudgement doth and muſt ſtand in force, untill it be reverſed; and all Officers and others are bound to further the execution of that their Iudgement, &amp; to do their commands, and the commands of the Law, touch<g ref="char:EOLhyphen"/>ing the ſame, and are by the ſame Law iuſtified therin.</p>
+            <p>And hereupon it appeareth that <hi>Quacumque via data,</hi> the firſt concluſion ſtandeth firme, <hi>viz.</hi> that it is not only lawfull, but commanded by the Lawes of this King<g ref="char:EOLhyphen"/>dome, that all perſons able, ſhould by all or any meanes whatſoever, endeavour to apprehend, oppoſe, quell, and vanquiſh, the ſaid perſons aſſembled in manner as afore<g ref="char:EOLhyphen"/>ſaid, notwithſtanding the Kings Command or Prohibi<g ref="char:EOLhyphen"/>tion, <hi>Commune periculum, commune auxilium petit.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
